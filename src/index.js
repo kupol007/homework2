@@ -65,12 +65,12 @@ buttonBuild.addEventListener("click", async function() {
                     data: temperatureMinData
                 },
                 {
-                    label: "Максимальная температура коморта",
+                    label: "Максимальная температура комфорта",
                     borderColor: "#F00",
                     data: heatMaxData
                 },
                 {
-                    label: "Минимальная температура коморта",
+                    label: "Минимальная температура комфорта",
                     borderColor: "#FF7F00",
                     data: heatMinData
                 }
